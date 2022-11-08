@@ -12,7 +12,6 @@
 </head>
 <body>
 
-    편집중입니다. <br/>
     
 <%
 request.setCharacterEncoding("UTF-8");
