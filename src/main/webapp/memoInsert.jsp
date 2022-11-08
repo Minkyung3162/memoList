@@ -12,7 +12,8 @@
 </head>
 <body>
 
-    
+수정이다
+
 <%
 request.setCharacterEncoding("UTF-8");
 String name = request.getParameter("name");
